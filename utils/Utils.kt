@@ -1,4 +1,4 @@
-package algorithms_in_kotlin.linked_list
+package algorithms_in_kotlin.utils
 
 infix fun String.example(function: () -> Unit) {
     println("---Example of $this---")

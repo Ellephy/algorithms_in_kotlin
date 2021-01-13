@@ -1,5 +1,7 @@
 package algorithms_in_kotlin.linked_list
 
+import algorithms_in_kotlin.utils.example
+
 fun main() {
     "creating and linking nodes" example {
         val node1 = Node(value = 1)
