@@ -1,2 +1,2 @@
-# algorithms_in_kotlin
+# Algorithms in Kotlin
  for self-pratice
